@@ -29,7 +29,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your profile link)*  
-- ✉️ Email: *add your email here*  
+- ✉️ Email: [hammugowda148@gmail.com](mailto:hammugowda148@gmail.com)  
+- 💼 LinkedIn: [hamsa-b-c-032b43222](https://www.linkedin.com/in/hamsa-b-c-032b43222)  
+- 📱 Mobile: [+91-8431341012]
 
 ⭐️ From [Hamsacgowda](https://github.com/Hamsacgowda)
