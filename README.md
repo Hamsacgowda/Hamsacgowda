@@ -37,7 +37,7 @@ To secure a Data Analyst or Process Mining role where I can solve business probl
 
 ### 📫 Connect with Me
 
-* LinkedIn: *(Add your LinkedIn URL here)*
+* LinkedIn: https://www.linkedin.com/in/hamsa-b-c-032b43222
 * GitHub: https://github.com/Hamsacgowda
 
 ⭐ Thank you for visiting my profile!
