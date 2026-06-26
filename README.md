@@ -1,36 +1,43 @@
-# Hi there 👋, I'm Hamsa B C  
+# Hi there 👋, I'm Hamsa B C
 
-🌱 **Beginner Developer | Learning Python, C, Java, HTML, JavaScript**  
-💡 Interested in **Full Stack Development & AI/ML**  
-🚀 Exploring **MERN stack projects** and **AI-based applications**  
+## 📊 Aspiring Data Analyst | Process Mining Enthusiast
 
----
+I am a final-year Information Science & Engineering student passionate about turning data into meaningful insights. I am actively building projects in Excel, SQL, Power BI, Python, and Process Mining to prepare for a career in Data Analytics.
 
-### 🔧 Skills
-- **Languages:** Python, C, Java, JavaScript  
-- **Frontend:** HTML, CSS, React (learning)  
-- **Backend:** Node.js, Express (learning)  
-- **Database:** MongoDB (learning)  
-- **Other:** Git, GitHub  
+### 🚀 Currently Learning
 
----
+* Microsoft Excel
+* SQL
+* Power BI
+* Python for Data Analysis
+* Process Mining
+* Data Visualization
 
-### 📂 Projects
-- [simplertech-assignment](https://github.com/Hamsacgowda/simplertech-assignment) – Assignment submission with CSS
-- 🚧 Working on **MERN & AI-based projects** (more coming soon!)
+### 🛠️ Technical Skills
 
----
+* Excel
+* SQL
+* Python
+* Power BI
+* Git & GitHub
+* Process Mining
+* Data Visualization
 
-### 📊 GitHub Stats
-![Hamsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamsacgowda&show_icons=true&theme=tokyonight)
+### 📂 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsacgowda&layout=compact&theme=tokyonight)
+* 📊 Excel Data Analysis Projects
+* 🗄️ SQL Practice Repository
+* 📈 Power BI Dashboards
+* 🐍 Python Data Analysis Projects
+* 🔍 Process Mining Projects
 
----
+### 🎯 Career Goal
+
+To secure a Data Analyst or Process Mining role where I can solve business problems using data-driven insights.
 
 ### 📫 Connect with Me
-- ✉️ Email: [hammugowda148@gmail.com](mailto:hammugowda148@gmail.com)  
-- 💼 LinkedIn: [hamsa-b-c-032b43222](https://www.linkedin.com/in/hamsa-b-c-032b43222)  
-- 📱 Mobile: [+91-8431341012]
 
-⭐️ From [Hamsacgowda](https://github.com/Hamsacgowda)
+* LinkedIn: *(Add your LinkedIn URL here)*
+* GitHub: https://github.com/Hamsacgowda
+
+⭐ Thank you for visiting my profile!
